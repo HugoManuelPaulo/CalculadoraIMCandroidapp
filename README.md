@@ -2,8 +2,8 @@
 
 The BMI Calculator is an Android app I developed as my first step into mobile development.
 I built it while participating in the 10D Challenge from the DevSpace community, starting completely from ZERO. 🚀
-
-:camera_flash: Screenshots
+ Screenshots
+:camera_flash:
 <img src="https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp/assets/94487927/535b43e5-780f-4289-a99d-d6e8f23caee3" alt="image1" width="260"> <img src="https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp/assets/94487927/2de9d3f8-922d-479e-95a1-f659728f38d2" alt="image2" width="260"> <img src="https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp/assets/94487927/ea0ea272-597b-44a6-b9bc-3865d3508dab" alt="image3" width="260">
 
 
