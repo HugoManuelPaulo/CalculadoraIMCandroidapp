@@ -1,39 +1,40 @@
-# Calculadora IMC
-Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros passos com desenvolvimento Android. Eu participei do desafio 10D na comunidade DevSpace e consegui sair do ZERO. 
+📱 BMI Calculator
 
+The BMI Calculator is an Android app I developed as my first step into mobile development.
+I built it while participating in the 10D Challenge from the DevSpace community, starting completely from ZERO. 🚀
 
-## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
+:camera_flash: Screenshots
+<img src="https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp/assets/94487927/535b43e5-780f-4289-a99d-d6e8f23caee3" alt="image1" width="260"> <img src="https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp/assets/94487927/2de9d3f8-922d-479e-95a1-f659728f38d2" alt="image2" width="260"> <img src="https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp/assets/94487927/ea0ea272-597b-44a6-b9bc-3865d3508dab" alt="image3" width="260">
+🛠️ Technologies
 
+Language: Kotlin
 
-<img src="https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp/assets/94487927/535b43e5-780f-4289-a99d-d6e8f23caee3" alt="image1" width="260">
-<img src="https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp/assets/94487927/2de9d3f8-922d-479e-95a1-f659728f38d2" alt="image2" width="260">
-<img src="https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp/assets/94487927/ea0ea272-597b-44a6-b9bc-3865d3508dab" alt="image3" width="260">
+App Structure: Activity for screen hosting
 
-## Tecnologias
-* Kotlin
-* Activity para host de telas
-* ViewGroup
-    * RelativeLayout
-    * LinearLayout
-- Components de UI
-    - TextView
-    - EditText
-    - Button
-- Toast para display de mensagens
-- Intent Explicita para abrir a segunda Activity
-- FindViewById para recuperar components de UI
-- String resource para concatenação de textos
+Layouts: RelativeLayout, LinearLayout
 
+UI Components: TextView, EditText, Button
 
-### TODO
-- Melhorar estilização do app
+Other Features:
 
-## Author
-Hugo Manuel Rodrigues Paulo (follow me on [Linkedin](linkedin.com/in/hugo-paulo-70b1941aa))
+Toast for message display
 
-## License
-```
+Explicit Intent to open second Activity
+
+FindViewById for retrieving UI components
+
+String resources for text concatenation
+
+📌 TODO
+
+Improve app styling and UI design
+
+👨‍💻 Author
+
+Hugo Manuel Rodrigues Paulo
+Follow me on LinkedIn
+
+📜 License
 The MIT License (MIT)
 
 Copyright (c) 2024 Hugo Manuel Rodrigues Paulo
@@ -54,4 +55,3 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-```
