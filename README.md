@@ -35,7 +35,7 @@ The app collects weight and height, calculates Body Mass Index (BMI), and displa
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp.git
+git clone https://github.com/hugomanuelpaulo/CalculadoraIMCandroidapp.git
 ```
 
 2. Open the project in Android Studio.
@@ -51,7 +51,7 @@ git clone https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp.git
 
 ## Author
 
-[Hugo Manuel Rodrigues Paulo](https://www.linkedin.com/in/hugo-paulo-70b1941aa)
+[Hugo Manuel Rodrigues Paulo](https://www.linkedin.com/in/hugomanuelpaulo)
 
 ## License
 
