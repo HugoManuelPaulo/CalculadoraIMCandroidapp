@@ -1,62 +1,58 @@
-📱 BMI Calculator
+# BMI Calculator — Android
 
-The BMI Calculator is an Android app I developed as my first step into mobile development.
-I built it while participating in the 10D Challenge from the DevSpace community, starting completely from ZERO. 🚀
+A native Android application developed with Kotlin as my first mobile-development project during the DevSpace 10D Challenge.
 
-:camera_flash:
+The app collects weight and height, calculates Body Mass Index (BMI), and displays the result on a second screen.
 
+## Screenshots
 
+<p align="center">
+  <img src="image1.png" alt="BMI Calculator input screen" width="260">
+  <img src="image2.png" alt="BMI Calculator form" width="260">
+  <img src="image3.png" alt="BMI Calculator result screen" width="260">
+</p>
 
-<img src="https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp/assets/94487927/535b43e5-780f-4289-a99d-d6e8f23caee3" alt="image1" width="260"> <img src="https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp/assets/94487927/2de9d3f8-922d-479e-95a1-f659728f38d2" alt="image2" width="260"> <img src="https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp/assets/94487927/ea0ea272-597b-44a6-b9bc-3865d3508dab" alt="image3" width="260">
+## Features
 
+- Weight and height input
+- BMI calculation
+- Result displayed on a separate activity
+- Input feedback using Toast messages
+- Navigation with an explicit Intent
 
-🛠️ Technologies
+## Technologies
 
-Language: Kotlin
+- Kotlin
+- Android Studio
+- XML layouts
+- RelativeLayout and LinearLayout
+- TextView, EditText and Button
+- String resources
+- Gradle
 
-App Structure: Activity for screen hosting
+## Run locally
 
-Layouts: RelativeLayout, LinearLayout
+1. Clone the repository:
 
-UI Components: TextView, EditText, Button
+```bash
+git clone https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp.git
+```
 
-Other Features:
+2. Open the project in Android Studio.
+3. Let Gradle synchronize the dependencies.
+4. Run the app on an Android emulator or physical device.
 
-Toast for message display
+## Possible improvements
 
-Explicit Intent to open second Activity
+- Add automated unit and UI tests
+- Improve input validation
+- Modernize the interface
+- Improve accessibility and localization
 
-FindViewById for retrieving UI components
+## Author
 
-String resources for text concatenation
+[Hugo Manuel Rodrigues Paulo](https://www.linkedin.com/in/hugo-paulo-70b1941aa)
 
-📌 TODO
+## License
 
-Improve app styling and UI design
-
-👨‍💻 Author
-
-Hugo Manuel Rodrigues Paulo
-Follow me on LinkedIn
-
-📜 License
-The MIT License (MIT)
-
-Copyright (c) 2024 Hugo Manuel Rodrigues Paulo
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+This project is available under the MIT License.
